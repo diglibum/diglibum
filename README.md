@@ -2,7 +2,7 @@
 
 Я начинающий front-end developer из Москвы.
 
-- 🔭 Работаю над игрой Space Racing
+- 🔭 Работаю над игрой <a href="https://github.com/Hill-Valley-Team/space-game">Space Racing</a>
 - 🌱 Осваиваю тестирование
 - ⚡ Люблю алгоритмы
 - 👯 Стремлюсь работать в команде
