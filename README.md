@@ -2,7 +2,7 @@
 
 Я начинающий front-end developer из Москвы.
 
-- 🔭 Сейчас я работаю над игрой Space Racing
+- 🔭 Работаю над игрой Space Racing
 - 🌱 Осваиваю тестирование
 - ⚡ Люблю алгоритмы
 - 👯 Стремлюсь работать в команде
@@ -13,12 +13,7 @@
 
 #### Статистика
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diglibum&layout=compact&hide=contribs&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diglibum&layout=compact" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diglibum&layout=compact&hide=contribs&count_private=true&show_icons=true" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diglibum&layout=compact" />
 
 <!--
 **diglibum/diglibum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
