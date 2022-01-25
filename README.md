@@ -7,7 +7,7 @@
 - ⚡ Люблю алгоритмы
 - 👯 Стремлюсь работать в команде
 
-#### Мой стек
+#### Cтек
 
 <img src='./assets/icons/icons8-typescript-30.png'> <img src='./assets/icons/icons8-react-native-30.png'/> <img src='./assets/icons/icons8-redux-30.png' /> <img src='./assets/icons/icons8-sass-30.png' /> <img src='./assets/icons/icons8-html-5-30.png' /> <img src='./assets/icons/icons8-css3-30.png' /> <img src='./assets/icons/icons8-webpack-30.png' /> <img src='./assets/icons/icons8-git-30.png' />
 
